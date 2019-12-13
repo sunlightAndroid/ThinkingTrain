@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--首页-->
+    <string name="label_tab_home">首页</string>
+    <string name="label_tab_caselibrary">病例库</string>
+    <string name="label_tab_mine">我的</string>
+
+    <!--login-->
+    <string name="label_login_tips">邮箱或者手机号</string>
+    <string name="label_login_action">登陆</string>
+    <string name="label_login_register">立即注册</string>
+    <string name="label_login_forget">忘记密码?</string>
+    <string name="label_login_account_hint">账户</string>
+    <string name="label_login_password_hint">密码</string>
+
+</resources>
+
+
+
+
+
+
+
+
+
+

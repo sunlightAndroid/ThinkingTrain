@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--接口请求 返回错误信息提示-->
+    <string name="api_error_network_exception">网络异常，请检查网络！</string>
+    <string name="api_error_server_exception">服务器异常!</string>
+
+
+</resources>

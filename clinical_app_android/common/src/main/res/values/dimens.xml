@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--头像高度-->
+    <dimen name="portraitMinSize">@dimen/len_36</dimen>
+    <dimen name="portraitSize">@dimen/len_40</dimen>
+    <dimen name="portraitMaxSize">@dimen/len_64</dimen>
+
+    <!--状态栏高度-->
+    <dimen name="status_bar_height">0dp</dimen>
+</resources>
